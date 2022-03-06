@@ -1,2 +1,2 @@
 # AppURL
-Abrir Exe o Bin desde Navegador Web
+Abrir Exe o Bin local desde el Navegador Web, como lo hace la aplicacion zoom...
