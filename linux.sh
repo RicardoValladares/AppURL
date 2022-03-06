@@ -1,0 +1,1 @@
+xdg-mime default leafpad.desktop x-scheme-handler/appurl
