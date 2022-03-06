@@ -1,8 +1,14 @@
 <html>
 	<head>
 		<title>URL que abre un Ejecutable Local</title>
+		<script type='text/javascript'>
+			function appurl(){
+				window.location.assign("appurl://argumentos");
+            			self.focus();
+			}
+		</script>
 	</head>
 	<body>
-		<a href="appurl://argumentos">personalizado</a>
+		<input type='button' onclick='appurl()' value='Ejecutar'>
 	</body>
 </html>
